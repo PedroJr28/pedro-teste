@@ -1,0 +1,31 @@
+body{
+    background-color:black;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 500px;
+}
+
+.conteiner{
+
+width: 1200px;
+border-radius: 10px;
+background-color: white;
+margin-left: 500px;
+}
+.titulo{
+display: flex;
+font-family: 'Times New Roman', Times, serif;
+position: relative;
+left: 250px;
+text-align: center
+;
+}
+.texto{
+    margin: 30px;
+    margin-top: 50px;
+}
