@@ -8,11 +8,12 @@ body{
     height: 700px;
     font-family: 'Times New Roman', Times, serif;
     margin-right: 500px;
+    
 }
 
 .conteiner{
 
-width: 1200px;
+width: 3000px;
 border-radius: 10px;
 background-color: white;
 margin-left: 500px;
@@ -29,3 +30,24 @@ text-align: center
     margin: 30px;
     margin-top: 50px;
 }
+.imagem{
+    display: flex;
+    width: 600px;
+    height: 300px;
+    margin-left: 500px;
+    position: relative;
+    top: -200px;
+    left: 0;
+    border-radius: 10px;
+    }
+.digite{
+    margin-left: 50px;
+}
+.botao{
+    
+
+}
+    
+    
+    
+    
